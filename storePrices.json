@@ -1,0 +1,7223 @@
+{
+  "version": "2026-05-starter",
+  "updatedAt": "2026-05-03",
+  "note": "Starter estimate file for personal grocery app. These are not live prices. User-saved prices should override these suggestions.",
+  "stores": {
+    "costco": {
+      "Milk": {
+        "price": 3.99,
+        "label": "Milk",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Eggs": {
+        "price": 4.99,
+        "label": "Eggs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese": {
+        "price": 6.99,
+        "label": "Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Butter": {
+        "price": 3.99,
+        "label": "Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Yogurt": {
+        "price": 3.49,
+        "label": "Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Greek Yogurt": {
+        "price": 4.99,
+        "label": "Greek Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cream Cheese": {
+        "price": 3.49,
+        "label": "Cream Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sour Cream": {
+        "price": 2.49,
+        "label": "Sour Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Heavy Cream": {
+        "price": 4.49,
+        "label": "Heavy Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Half and Half": {
+        "price": 3.99,
+        "label": "Half and Half",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cottage Cheese": {
+        "price": 3.99,
+        "label": "Cottage Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mozzarella": {
+        "price": 4.49,
+        "label": "Mozzarella",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheddar": {
+        "price": 4.49,
+        "label": "Cheddar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Parmesan": {
+        "price": 5.49,
+        "label": "Parmesan",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "String Cheese": {
+        "price": 7.49,
+        "label": "String Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Whipped Cream": {
+        "price": 3.49,
+        "label": "Whipped Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken": {
+        "price": 7.99,
+        "label": "Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ground Beef": {
+        "price": 7.49,
+        "label": "Ground Beef",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Steak": {
+        "price": 13.49,
+        "label": "Steak",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Turkey": {
+        "price": 7.49,
+        "label": "Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bacon": {
+        "price": 9.49,
+        "label": "Bacon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ham": {
+        "price": 5.49,
+        "label": "Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sausage": {
+        "price": 5.49,
+        "label": "Sausage",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pork Chops": {
+        "price": 6.49,
+        "label": "Pork Chops",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salmon": {
+        "price": 11.49,
+        "label": "Salmon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tilapia": {
+        "price": 7.99,
+        "label": "Tilapia",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Shrimp": {
+        "price": 8.99,
+        "label": "Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tuna": {
+        "price": 2.49,
+        "label": "Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crab Meat": {
+        "price": 11.49,
+        "label": "Crab Meat",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rotisserie Chicken": {
+        "price": 7.49,
+        "label": "Rotisserie Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Turkey": {
+        "price": 6.49,
+        "label": "Deli Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Ham": {
+        "price": 6.49,
+        "label": "Deli Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dogs": {
+        "price": 4.49,
+        "label": "Hot Dogs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Meatballs": {
+        "price": 5.49,
+        "label": "Meatballs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bananas": {
+        "price": 1.99,
+        "label": "Bananas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apples": {
+        "price": 4.49,
+        "label": "Apples",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Strawberries": {
+        "price": 4.49,
+        "label": "Strawberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Blueberries": {
+        "price": 4.49,
+        "label": "Blueberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Grapes": {
+        "price": 4.49,
+        "label": "Grapes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oranges": {
+        "price": 4.99,
+        "label": "Oranges",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Avocados": {
+        "price": 4.49,
+        "label": "Avocados",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lettuce": {
+        "price": 2.49,
+        "label": "Lettuce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Spinach": {
+        "price": 3.49,
+        "label": "Spinach",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomatoes": {
+        "price": 3.49,
+        "label": "Tomatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Onions": {
+        "price": 2.49,
+        "label": "Onions",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Garlic": {
+        "price": 1.49,
+        "label": "Garlic",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bell Peppers": {
+        "price": 3.99,
+        "label": "Bell Peppers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Potatoes": {
+        "price": 4.49,
+        "label": "Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sweet Potatoes": {
+        "price": 3.49,
+        "label": "Sweet Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Carrots": {
+        "price": 2.49,
+        "label": "Carrots",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Broccoli": {
+        "price": 3.49,
+        "label": "Broccoli",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cauliflower": {
+        "price": 3.49,
+        "label": "Cauliflower",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Zucchini": {
+        "price": 2.49,
+        "label": "Zucchini",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cucumbers": {
+        "price": 2.49,
+        "label": "Cucumbers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Celery": {
+        "price": 2.49,
+        "label": "Celery",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mushrooms": {
+        "price": 3.49,
+        "label": "Mushrooms",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemons": {
+        "price": 2.49,
+        "label": "Lemons",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Limes": {
+        "price": 2.49,
+        "label": "Limes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pineapple": {
+        "price": 3.49,
+        "label": "Pineapple",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Watermelon": {
+        "price": 6.49,
+        "label": "Watermelon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mango": {
+        "price": 2.49,
+        "label": "Mango",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peaches": {
+        "price": 4.49,
+        "label": "Peaches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bread": {
+        "price": 3.49,
+        "label": "Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bagels": {
+        "price": 3.99,
+        "label": "Bagels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tortillas": {
+        "price": 3.49,
+        "label": "Tortillas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hamburger Buns": {
+        "price": 3.49,
+        "label": "Hamburger Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dog Buns": {
+        "price": 3.49,
+        "label": "Hot Dog Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Croissants": {
+        "price": 5.49,
+        "label": "Croissants",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Muffins": {
+        "price": 4.99,
+        "label": "Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "English Muffins": {
+        "price": 3.49,
+        "label": "English Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Dinner Rolls": {
+        "price": 3.99,
+        "label": "Dinner Rolls",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pita Bread": {
+        "price": 3.49,
+        "label": "Pita Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Donuts": {
+        "price": 5.49,
+        "label": "Donuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cake": {
+        "price": 11.49,
+        "label": "Cake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cookies": {
+        "price": 4.49,
+        "label": "Cookies",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice": {
+        "price": 5.49,
+        "label": "Rice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pasta": {
+        "price": 2.49,
+        "label": "Pasta",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mac and Cheese": {
+        "price": 1.99,
+        "label": "Mac and Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Flour": {
+        "price": 4.49,
+        "label": "Flour",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sugar": {
+        "price": 3.99,
+        "label": "Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Brown Sugar": {
+        "price": 3.49,
+        "label": "Brown Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salt": {
+        "price": 1.99,
+        "label": "Salt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pepper": {
+        "price": 3.49,
+        "label": "Pepper",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Olive Oil": {
+        "price": 8.99,
+        "label": "Olive Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vegetable Oil": {
+        "price": 5.49,
+        "label": "Vegetable Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vinegar": {
+        "price": 3.49,
+        "label": "Vinegar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ketchup": {
+        "price": 3.49,
+        "label": "Ketchup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mustard": {
+        "price": 2.49,
+        "label": "Mustard",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mayonnaise": {
+        "price": 4.99,
+        "label": "Mayonnaise",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soy Sauce": {
+        "price": 3.49,
+        "label": "Soy Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Sauce": {
+        "price": 3.49,
+        "label": "Hot Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "BBQ Sauce": {
+        "price": 3.49,
+        "label": "BBQ Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peanut Butter": {
+        "price": 4.49,
+        "label": "Peanut Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jelly": {
+        "price": 3.49,
+        "label": "Jelly",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Honey": {
+        "price": 7.49,
+        "label": "Honey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Maple Syrup": {
+        "price": 7.99,
+        "label": "Maple Syrup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Beans": {
+        "price": 1.49,
+        "label": "Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Black Beans": {
+        "price": 1.49,
+        "label": "Black Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chickpeas": {
+        "price": 1.49,
+        "label": "Chickpeas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lentils": {
+        "price": 2.49,
+        "label": "Lentils",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oatmeal": {
+        "price": 4.49,
+        "label": "Oatmeal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cereal": {
+        "price": 4.99,
+        "label": "Cereal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pancake Mix": {
+        "price": 3.99,
+        "label": "Pancake Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Broth": {
+        "price": 3.49,
+        "label": "Chicken Broth",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomato Sauce": {
+        "price": 1.49,
+        "label": "Tomato Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Corn": {
+        "price": 1.49,
+        "label": "Canned Corn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Tuna": {
+        "price": 2.49,
+        "label": "Canned Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Pizza": {
+        "price": 6.49,
+        "label": "Frozen Pizza",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice Cream": {
+        "price": 4.99,
+        "label": "Ice Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Vegetables": {
+        "price": 2.49,
+        "label": "Frozen Vegetables",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Fruit": {
+        "price": 4.49,
+        "label": "Frozen Fruit",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Nuggets": {
+        "price": 10.99,
+        "label": "Chicken Nuggets",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fries": {
+        "price": 3.99,
+        "label": "Fries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Waffles": {
+        "price": 3.49,
+        "label": "Waffles",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Breakfast Sandwiches": {
+        "price": 6.49,
+        "label": "Breakfast Sandwiches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Burritos": {
+        "price": 4.49,
+        "label": "Frozen Burritos",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Meals": {
+        "price": 4.49,
+        "label": "Frozen Meals",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice": {
+        "price": 2.49,
+        "label": "Ice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Shrimp": {
+        "price": 13.49,
+        "label": "Frozen Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chips": {
+        "price": 4.49,
+        "label": "Chips",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Popcorn": {
+        "price": 3.49,
+        "label": "Popcorn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crackers": {
+        "price": 3.99,
+        "label": "Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Granola Bars": {
+        "price": 7.49,
+        "label": "Granola Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pretzels": {
+        "price": 3.49,
+        "label": "Pretzels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Trail Mix": {
+        "price": 9.49,
+        "label": "Trail Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Nuts": {
+        "price": 10.99,
+        "label": "Nuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Bars": {
+        "price": 12.49,
+        "label": "Protein Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chocolate": {
+        "price": 3.49,
+        "label": "Chocolate",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Candy": {
+        "price": 3.49,
+        "label": "Candy",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fruit Snacks": {
+        "price": 3.99,
+        "label": "Fruit Snacks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice Cakes": {
+        "price": 3.49,
+        "label": "Rice Cakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jerky": {
+        "price": 7.49,
+        "label": "Jerky",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese Crackers": {
+        "price": 3.99,
+        "label": "Cheese Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Gum": {
+        "price": 2.49,
+        "label": "Gum",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cupcakes": {
+        "price": 5.49,
+        "label": "Cupcakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Water": {
+        "price": 6.99,
+        "label": "Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sparkling Water": {
+        "price": 5.49,
+        "label": "Sparkling Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Orange Juice": {
+        "price": 4.49,
+        "label": "Orange Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apple Juice": {
+        "price": 3.49,
+        "label": "Apple Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soda": {
+        "price": 10.99,
+        "label": "Soda",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coffee": {
+        "price": 8.99,
+        "label": "Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Creamer": {
+        "price": 3.99,
+        "label": "Creamer",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tea": {
+        "price": 4.49,
+        "label": "Tea",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Energy Drinks": {
+        "price": 12.49,
+        "label": "Energy Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sports Drinks": {
+        "price": 9.49,
+        "label": "Sports Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemonade": {
+        "price": 3.49,
+        "label": "Lemonade",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Iced Coffee": {
+        "price": 4.99,
+        "label": "Iced Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coconut Water": {
+        "price": 4.49,
+        "label": "Coconut Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Electrolyte Drinks": {
+        "price": 6.49,
+        "label": "Electrolyte Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Shake": {
+        "price": 12.49,
+        "label": "Protein Shake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      }
+    },
+    "walmart": {
+      "Milk": {
+        "price": 4.49,
+        "label": "Milk",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Eggs": {
+        "price": 5.49,
+        "label": "Eggs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese": {
+        "price": 4.99,
+        "label": "Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Butter": {
+        "price": 4.49,
+        "label": "Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Yogurt": {
+        "price": 3.99,
+        "label": "Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Greek Yogurt": {
+        "price": 5.49,
+        "label": "Greek Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cream Cheese": {
+        "price": 3.49,
+        "label": "Cream Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sour Cream": {
+        "price": 2.99,
+        "label": "Sour Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Heavy Cream": {
+        "price": 5.49,
+        "label": "Heavy Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Half and Half": {
+        "price": 4.49,
+        "label": "Half and Half",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cottage Cheese": {
+        "price": 4.49,
+        "label": "Cottage Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mozzarella": {
+        "price": 4.99,
+        "label": "Mozzarella",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheddar": {
+        "price": 4.99,
+        "label": "Cheddar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Parmesan": {
+        "price": 5.99,
+        "label": "Parmesan",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "String Cheese": {
+        "price": 5.49,
+        "label": "String Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Whipped Cream": {
+        "price": 3.49,
+        "label": "Whipped Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken": {
+        "price": 8.49,
+        "label": "Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ground Beef": {
+        "price": 7.49,
+        "label": "Ground Beef",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Steak": {
+        "price": 14.49,
+        "label": "Steak",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Turkey": {
+        "price": 8.49,
+        "label": "Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bacon": {
+        "price": 6.49,
+        "label": "Bacon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ham": {
+        "price": 6.49,
+        "label": "Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sausage": {
+        "price": 5.99,
+        "label": "Sausage",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pork Chops": {
+        "price": 7.49,
+        "label": "Pork Chops",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salmon": {
+        "price": 12.49,
+        "label": "Salmon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tilapia": {
+        "price": 8.49,
+        "label": "Tilapia",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Shrimp": {
+        "price": 9.49,
+        "label": "Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tuna": {
+        "price": 2.49,
+        "label": "Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crab Meat": {
+        "price": 12.49,
+        "label": "Crab Meat",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rotisserie Chicken": {
+        "price": 7.49,
+        "label": "Rotisserie Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Turkey": {
+        "price": 7.49,
+        "label": "Deli Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Ham": {
+        "price": 6.49,
+        "label": "Deli Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dogs": {
+        "price": 4.99,
+        "label": "Hot Dogs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Meatballs": {
+        "price": 5.99,
+        "label": "Meatballs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bananas": {
+        "price": 1.99,
+        "label": "Bananas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apples": {
+        "price": 4.99,
+        "label": "Apples",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Strawberries": {
+        "price": 4.99,
+        "label": "Strawberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Blueberries": {
+        "price": 4.99,
+        "label": "Blueberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Grapes": {
+        "price": 4.99,
+        "label": "Grapes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oranges": {
+        "price": 5.49,
+        "label": "Oranges",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Avocados": {
+        "price": 4.99,
+        "label": "Avocados",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lettuce": {
+        "price": 2.99,
+        "label": "Lettuce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Spinach": {
+        "price": 3.99,
+        "label": "Spinach",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomatoes": {
+        "price": 3.99,
+        "label": "Tomatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Onions": {
+        "price": 2.99,
+        "label": "Onions",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Garlic": {
+        "price": 1.49,
+        "label": "Garlic",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bell Peppers": {
+        "price": 4.49,
+        "label": "Bell Peppers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Potatoes": {
+        "price": 4.99,
+        "label": "Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sweet Potatoes": {
+        "price": 3.99,
+        "label": "Sweet Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Carrots": {
+        "price": 2.99,
+        "label": "Carrots",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Broccoli": {
+        "price": 3.49,
+        "label": "Broccoli",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cauliflower": {
+        "price": 3.99,
+        "label": "Cauliflower",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Zucchini": {
+        "price": 2.99,
+        "label": "Zucchini",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cucumbers": {
+        "price": 2.49,
+        "label": "Cucumbers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Celery": {
+        "price": 2.99,
+        "label": "Celery",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mushrooms": {
+        "price": 3.49,
+        "label": "Mushrooms",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemons": {
+        "price": 2.99,
+        "label": "Lemons",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Limes": {
+        "price": 2.49,
+        "label": "Limes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pineapple": {
+        "price": 3.99,
+        "label": "Pineapple",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Watermelon": {
+        "price": 6.49,
+        "label": "Watermelon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mango": {
+        "price": 2.49,
+        "label": "Mango",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peaches": {
+        "price": 4.99,
+        "label": "Peaches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bread": {
+        "price": 3.99,
+        "label": "Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bagels": {
+        "price": 4.49,
+        "label": "Bagels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tortillas": {
+        "price": 3.49,
+        "label": "Tortillas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hamburger Buns": {
+        "price": 3.99,
+        "label": "Hamburger Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dog Buns": {
+        "price": 3.49,
+        "label": "Hot Dog Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Croissants": {
+        "price": 5.99,
+        "label": "Croissants",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Muffins": {
+        "price": 5.49,
+        "label": "Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "English Muffins": {
+        "price": 3.99,
+        "label": "English Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Dinner Rolls": {
+        "price": 4.49,
+        "label": "Dinner Rolls",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pita Bread": {
+        "price": 3.99,
+        "label": "Pita Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Donuts": {
+        "price": 5.99,
+        "label": "Donuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cake": {
+        "price": 12.49,
+        "label": "Cake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cookies": {
+        "price": 4.99,
+        "label": "Cookies",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice": {
+        "price": 5.99,
+        "label": "Rice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pasta": {
+        "price": 2.49,
+        "label": "Pasta",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mac and Cheese": {
+        "price": 1.99,
+        "label": "Mac and Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Flour": {
+        "price": 4.99,
+        "label": "Flour",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sugar": {
+        "price": 4.49,
+        "label": "Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Brown Sugar": {
+        "price": 3.49,
+        "label": "Brown Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salt": {
+        "price": 1.99,
+        "label": "Salt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pepper": {
+        "price": 3.99,
+        "label": "Pepper",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Olive Oil": {
+        "price": 9.49,
+        "label": "Olive Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vegetable Oil": {
+        "price": 5.99,
+        "label": "Vegetable Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vinegar": {
+        "price": 3.49,
+        "label": "Vinegar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ketchup": {
+        "price": 3.99,
+        "label": "Ketchup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mustard": {
+        "price": 2.49,
+        "label": "Mustard",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mayonnaise": {
+        "price": 5.49,
+        "label": "Mayonnaise",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soy Sauce": {
+        "price": 3.99,
+        "label": "Soy Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Sauce": {
+        "price": 3.49,
+        "label": "Hot Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "BBQ Sauce": {
+        "price": 3.99,
+        "label": "BBQ Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peanut Butter": {
+        "price": 4.99,
+        "label": "Peanut Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jelly": {
+        "price": 3.99,
+        "label": "Jelly",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Honey": {
+        "price": 7.49,
+        "label": "Honey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Maple Syrup": {
+        "price": 8.49,
+        "label": "Maple Syrup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Beans": {
+        "price": 1.49,
+        "label": "Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Black Beans": {
+        "price": 1.49,
+        "label": "Black Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chickpeas": {
+        "price": 1.49,
+        "label": "Chickpeas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lentils": {
+        "price": 2.49,
+        "label": "Lentils",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oatmeal": {
+        "price": 4.99,
+        "label": "Oatmeal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cereal": {
+        "price": 5.49,
+        "label": "Cereal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pancake Mix": {
+        "price": 4.49,
+        "label": "Pancake Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Broth": {
+        "price": 3.49,
+        "label": "Chicken Broth",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomato Sauce": {
+        "price": 1.49,
+        "label": "Tomato Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Corn": {
+        "price": 1.49,
+        "label": "Canned Corn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Tuna": {
+        "price": 2.49,
+        "label": "Canned Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Pizza": {
+        "price": 6.49,
+        "label": "Frozen Pizza",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice Cream": {
+        "price": 5.49,
+        "label": "Ice Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Vegetables": {
+        "price": 2.99,
+        "label": "Frozen Vegetables",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Fruit": {
+        "price": 4.99,
+        "label": "Frozen Fruit",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Nuggets": {
+        "price": 7.49,
+        "label": "Chicken Nuggets",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fries": {
+        "price": 4.49,
+        "label": "Fries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Waffles": {
+        "price": 3.99,
+        "label": "Waffles",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Breakfast Sandwiches": {
+        "price": 6.49,
+        "label": "Breakfast Sandwiches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Burritos": {
+        "price": 4.99,
+        "label": "Frozen Burritos",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Meals": {
+        "price": 4.99,
+        "label": "Frozen Meals",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice": {
+        "price": 2.99,
+        "label": "Ice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Shrimp": {
+        "price": 9.49,
+        "label": "Frozen Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chips": {
+        "price": 4.99,
+        "label": "Chips",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Popcorn": {
+        "price": 3.99,
+        "label": "Popcorn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crackers": {
+        "price": 4.49,
+        "label": "Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Granola Bars": {
+        "price": 5.49,
+        "label": "Granola Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pretzels": {
+        "price": 3.49,
+        "label": "Pretzels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Trail Mix": {
+        "price": 6.49,
+        "label": "Trail Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Nuts": {
+        "price": 7.49,
+        "label": "Nuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Bars": {
+        "price": 8.49,
+        "label": "Protein Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chocolate": {
+        "price": 3.49,
+        "label": "Chocolate",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Candy": {
+        "price": 3.99,
+        "label": "Candy",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fruit Snacks": {
+        "price": 4.49,
+        "label": "Fruit Snacks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice Cakes": {
+        "price": 3.49,
+        "label": "Rice Cakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jerky": {
+        "price": 7.49,
+        "label": "Jerky",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese Crackers": {
+        "price": 4.49,
+        "label": "Cheese Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Gum": {
+        "price": 2.49,
+        "label": "Gum",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cupcakes": {
+        "price": 5.99,
+        "label": "Cupcakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Water": {
+        "price": 4.99,
+        "label": "Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sparkling Water": {
+        "price": 5.99,
+        "label": "Sparkling Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Orange Juice": {
+        "price": 4.99,
+        "label": "Orange Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apple Juice": {
+        "price": 3.99,
+        "label": "Apple Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soda": {
+        "price": 7.49,
+        "label": "Soda",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coffee": {
+        "price": 9.49,
+        "label": "Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Creamer": {
+        "price": 4.49,
+        "label": "Creamer",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tea": {
+        "price": 4.99,
+        "label": "Tea",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Energy Drinks": {
+        "price": 8.49,
+        "label": "Energy Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sports Drinks": {
+        "price": 6.49,
+        "label": "Sports Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemonade": {
+        "price": 3.49,
+        "label": "Lemonade",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Iced Coffee": {
+        "price": 5.49,
+        "label": "Iced Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coconut Water": {
+        "price": 4.99,
+        "label": "Coconut Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Electrolyte Drinks": {
+        "price": 6.49,
+        "label": "Electrolyte Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Shake": {
+        "price": 8.49,
+        "label": "Protein Shake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      }
+    },
+    "target": {
+      "Milk": {
+        "price": 4.49,
+        "label": "Milk",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Eggs": {
+        "price": 5.99,
+        "label": "Eggs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese": {
+        "price": 5.49,
+        "label": "Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Butter": {
+        "price": 4.49,
+        "label": "Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Yogurt": {
+        "price": 4.49,
+        "label": "Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Greek Yogurt": {
+        "price": 5.99,
+        "label": "Greek Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cream Cheese": {
+        "price": 3.49,
+        "label": "Cream Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sour Cream": {
+        "price": 3.49,
+        "label": "Sour Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Heavy Cream": {
+        "price": 5.49,
+        "label": "Heavy Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Half and Half": {
+        "price": 4.49,
+        "label": "Half and Half",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cottage Cheese": {
+        "price": 4.49,
+        "label": "Cottage Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mozzarella": {
+        "price": 5.49,
+        "label": "Mozzarella",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheddar": {
+        "price": 5.49,
+        "label": "Cheddar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Parmesan": {
+        "price": 6.49,
+        "label": "Parmesan",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "String Cheese": {
+        "price": 5.99,
+        "label": "String Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Whipped Cream": {
+        "price": 3.49,
+        "label": "Whipped Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken": {
+        "price": 9.49,
+        "label": "Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ground Beef": {
+        "price": 8.49,
+        "label": "Ground Beef",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Steak": {
+        "price": 15.99,
+        "label": "Steak",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Turkey": {
+        "price": 8.99,
+        "label": "Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bacon": {
+        "price": 7.49,
+        "label": "Bacon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ham": {
+        "price": 6.99,
+        "label": "Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sausage": {
+        "price": 6.49,
+        "label": "Sausage",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pork Chops": {
+        "price": 7.99,
+        "label": "Pork Chops",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salmon": {
+        "price": 13.49,
+        "label": "Salmon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tilapia": {
+        "price": 9.49,
+        "label": "Tilapia",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Shrimp": {
+        "price": 10.49,
+        "label": "Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tuna": {
+        "price": 2.49,
+        "label": "Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crab Meat": {
+        "price": 13.49,
+        "label": "Crab Meat",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rotisserie Chicken": {
+        "price": 8.49,
+        "label": "Rotisserie Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Turkey": {
+        "price": 7.99,
+        "label": "Deli Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Ham": {
+        "price": 7.49,
+        "label": "Deli Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dogs": {
+        "price": 5.49,
+        "label": "Hot Dogs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Meatballs": {
+        "price": 6.49,
+        "label": "Meatballs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bananas": {
+        "price": 2.49,
+        "label": "Bananas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apples": {
+        "price": 5.49,
+        "label": "Apples",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Strawberries": {
+        "price": 5.49,
+        "label": "Strawberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Blueberries": {
+        "price": 5.49,
+        "label": "Blueberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Grapes": {
+        "price": 5.49,
+        "label": "Grapes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oranges": {
+        "price": 5.99,
+        "label": "Oranges",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Avocados": {
+        "price": 5.49,
+        "label": "Avocados",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lettuce": {
+        "price": 3.49,
+        "label": "Lettuce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Spinach": {
+        "price": 4.49,
+        "label": "Spinach",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomatoes": {
+        "price": 4.49,
+        "label": "Tomatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Onions": {
+        "price": 3.49,
+        "label": "Onions",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Garlic": {
+        "price": 1.49,
+        "label": "Garlic",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bell Peppers": {
+        "price": 4.49,
+        "label": "Bell Peppers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Potatoes": {
+        "price": 5.49,
+        "label": "Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sweet Potatoes": {
+        "price": 4.49,
+        "label": "Sweet Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Carrots": {
+        "price": 3.49,
+        "label": "Carrots",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Broccoli": {
+        "price": 3.49,
+        "label": "Broccoli",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cauliflower": {
+        "price": 4.49,
+        "label": "Cauliflower",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Zucchini": {
+        "price": 3.49,
+        "label": "Zucchini",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cucumbers": {
+        "price": 2.49,
+        "label": "Cucumbers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Celery": {
+        "price": 3.49,
+        "label": "Celery",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mushrooms": {
+        "price": 3.49,
+        "label": "Mushrooms",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemons": {
+        "price": 3.49,
+        "label": "Lemons",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Limes": {
+        "price": 2.49,
+        "label": "Limes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pineapple": {
+        "price": 4.49,
+        "label": "Pineapple",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Watermelon": {
+        "price": 7.49,
+        "label": "Watermelon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mango": {
+        "price": 2.49,
+        "label": "Mango",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peaches": {
+        "price": 5.49,
+        "label": "Peaches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bread": {
+        "price": 4.49,
+        "label": "Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bagels": {
+        "price": 4.49,
+        "label": "Bagels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tortillas": {
+        "price": 3.49,
+        "label": "Tortillas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hamburger Buns": {
+        "price": 4.49,
+        "label": "Hamburger Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dog Buns": {
+        "price": 3.49,
+        "label": "Hot Dog Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Croissants": {
+        "price": 6.49,
+        "label": "Croissants",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Muffins": {
+        "price": 5.99,
+        "label": "Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "English Muffins": {
+        "price": 4.49,
+        "label": "English Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Dinner Rolls": {
+        "price": 4.49,
+        "label": "Dinner Rolls",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pita Bread": {
+        "price": 4.49,
+        "label": "Pita Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Donuts": {
+        "price": 6.49,
+        "label": "Donuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cake": {
+        "price": 13.49,
+        "label": "Cake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cookies": {
+        "price": 5.49,
+        "label": "Cookies",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice": {
+        "price": 6.49,
+        "label": "Rice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pasta": {
+        "price": 2.49,
+        "label": "Pasta",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mac and Cheese": {
+        "price": 2.49,
+        "label": "Mac and Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Flour": {
+        "price": 5.49,
+        "label": "Flour",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sugar": {
+        "price": 4.49,
+        "label": "Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Brown Sugar": {
+        "price": 3.49,
+        "label": "Brown Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salt": {
+        "price": 2.49,
+        "label": "Salt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pepper": {
+        "price": 4.49,
+        "label": "Pepper",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Olive Oil": {
+        "price": 10.49,
+        "label": "Olive Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vegetable Oil": {
+        "price": 6.49,
+        "label": "Vegetable Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vinegar": {
+        "price": 3.49,
+        "label": "Vinegar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ketchup": {
+        "price": 4.49,
+        "label": "Ketchup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mustard": {
+        "price": 2.49,
+        "label": "Mustard",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mayonnaise": {
+        "price": 5.99,
+        "label": "Mayonnaise",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soy Sauce": {
+        "price": 4.49,
+        "label": "Soy Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Sauce": {
+        "price": 3.49,
+        "label": "Hot Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "BBQ Sauce": {
+        "price": 4.49,
+        "label": "BBQ Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peanut Butter": {
+        "price": 5.49,
+        "label": "Peanut Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jelly": {
+        "price": 4.49,
+        "label": "Jelly",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Honey": {
+        "price": 8.49,
+        "label": "Honey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Maple Syrup": {
+        "price": 9.49,
+        "label": "Maple Syrup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Beans": {
+        "price": 1.99,
+        "label": "Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Black Beans": {
+        "price": 1.99,
+        "label": "Black Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chickpeas": {
+        "price": 1.99,
+        "label": "Chickpeas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lentils": {
+        "price": 2.49,
+        "label": "Lentils",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oatmeal": {
+        "price": 5.49,
+        "label": "Oatmeal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cereal": {
+        "price": 5.99,
+        "label": "Cereal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pancake Mix": {
+        "price": 4.49,
+        "label": "Pancake Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Broth": {
+        "price": 3.49,
+        "label": "Chicken Broth",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomato Sauce": {
+        "price": 1.99,
+        "label": "Tomato Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Corn": {
+        "price": 1.49,
+        "label": "Canned Corn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Tuna": {
+        "price": 2.49,
+        "label": "Canned Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Pizza": {
+        "price": 7.49,
+        "label": "Frozen Pizza",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice Cream": {
+        "price": 5.99,
+        "label": "Ice Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Vegetables": {
+        "price": 3.49,
+        "label": "Frozen Vegetables",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Fruit": {
+        "price": 5.49,
+        "label": "Frozen Fruit",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Nuggets": {
+        "price": 8.49,
+        "label": "Chicken Nuggets",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fries": {
+        "price": 4.49,
+        "label": "Fries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Waffles": {
+        "price": 4.49,
+        "label": "Waffles",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Breakfast Sandwiches": {
+        "price": 7.49,
+        "label": "Breakfast Sandwiches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Burritos": {
+        "price": 5.49,
+        "label": "Frozen Burritos",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Meals": {
+        "price": 5.49,
+        "label": "Frozen Meals",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice": {
+        "price": 3.49,
+        "label": "Ice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Shrimp": {
+        "price": 10.49,
+        "label": "Frozen Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chips": {
+        "price": 5.49,
+        "label": "Chips",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Popcorn": {
+        "price": 4.49,
+        "label": "Popcorn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crackers": {
+        "price": 4.49,
+        "label": "Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Granola Bars": {
+        "price": 5.99,
+        "label": "Granola Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pretzels": {
+        "price": 3.49,
+        "label": "Pretzels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Trail Mix": {
+        "price": 7.49,
+        "label": "Trail Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Nuts": {
+        "price": 8.49,
+        "label": "Nuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Bars": {
+        "price": 9.49,
+        "label": "Protein Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chocolate": {
+        "price": 3.49,
+        "label": "Chocolate",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Candy": {
+        "price": 4.49,
+        "label": "Candy",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fruit Snacks": {
+        "price": 4.49,
+        "label": "Fruit Snacks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice Cakes": {
+        "price": 3.49,
+        "label": "Rice Cakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jerky": {
+        "price": 8.49,
+        "label": "Jerky",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese Crackers": {
+        "price": 4.49,
+        "label": "Cheese Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Gum": {
+        "price": 2.49,
+        "label": "Gum",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cupcakes": {
+        "price": 6.49,
+        "label": "Cupcakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Water": {
+        "price": 5.49,
+        "label": "Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sparkling Water": {
+        "price": 6.49,
+        "label": "Sparkling Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Orange Juice": {
+        "price": 5.49,
+        "label": "Orange Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apple Juice": {
+        "price": 4.49,
+        "label": "Apple Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soda": {
+        "price": 8.49,
+        "label": "Soda",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coffee": {
+        "price": 10.49,
+        "label": "Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Creamer": {
+        "price": 4.49,
+        "label": "Creamer",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tea": {
+        "price": 5.49,
+        "label": "Tea",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Energy Drinks": {
+        "price": 9.49,
+        "label": "Energy Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sports Drinks": {
+        "price": 7.49,
+        "label": "Sports Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemonade": {
+        "price": 3.49,
+        "label": "Lemonade",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Iced Coffee": {
+        "price": 5.99,
+        "label": "Iced Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coconut Water": {
+        "price": 5.49,
+        "label": "Coconut Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Electrolyte Drinks": {
+        "price": 7.49,
+        "label": "Electrolyte Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Shake": {
+        "price": 9.49,
+        "label": "Protein Shake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      }
+    },
+    "aldi": {
+      "Milk": {
+        "price": 3.49,
+        "label": "Milk",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Eggs": {
+        "price": 4.49,
+        "label": "Eggs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese": {
+        "price": 4.49,
+        "label": "Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Butter": {
+        "price": 3.49,
+        "label": "Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Yogurt": {
+        "price": 3.49,
+        "label": "Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Greek Yogurt": {
+        "price": 4.49,
+        "label": "Greek Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cream Cheese": {
+        "price": 2.99,
+        "label": "Cream Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sour Cream": {
+        "price": 2.49,
+        "label": "Sour Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Heavy Cream": {
+        "price": 4.49,
+        "label": "Heavy Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Half and Half": {
+        "price": 3.49,
+        "label": "Half and Half",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cottage Cheese": {
+        "price": 3.49,
+        "label": "Cottage Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mozzarella": {
+        "price": 4.49,
+        "label": "Mozzarella",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheddar": {
+        "price": 4.49,
+        "label": "Cheddar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Parmesan": {
+        "price": 4.99,
+        "label": "Parmesan",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "String Cheese": {
+        "price": 4.49,
+        "label": "String Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Whipped Cream": {
+        "price": 2.99,
+        "label": "Whipped Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken": {
+        "price": 7.49,
+        "label": "Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ground Beef": {
+        "price": 6.49,
+        "label": "Ground Beef",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Steak": {
+        "price": 12.49,
+        "label": "Steak",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Turkey": {
+        "price": 6.99,
+        "label": "Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bacon": {
+        "price": 5.49,
+        "label": "Bacon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ham": {
+        "price": 5.49,
+        "label": "Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sausage": {
+        "price": 4.99,
+        "label": "Sausage",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pork Chops": {
+        "price": 6.49,
+        "label": "Pork Chops",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salmon": {
+        "price": 10.49,
+        "label": "Salmon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tilapia": {
+        "price": 7.49,
+        "label": "Tilapia",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Shrimp": {
+        "price": 8.49,
+        "label": "Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tuna": {
+        "price": 2.49,
+        "label": "Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crab Meat": {
+        "price": 10.49,
+        "label": "Crab Meat",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rotisserie Chicken": {
+        "price": 6.49,
+        "label": "Rotisserie Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Turkey": {
+        "price": 6.49,
+        "label": "Deli Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Ham": {
+        "price": 5.49,
+        "label": "Deli Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dogs": {
+        "price": 4.49,
+        "label": "Hot Dogs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Meatballs": {
+        "price": 4.99,
+        "label": "Meatballs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bananas": {
+        "price": 1.49,
+        "label": "Bananas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apples": {
+        "price": 4.49,
+        "label": "Apples",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Strawberries": {
+        "price": 4.49,
+        "label": "Strawberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Blueberries": {
+        "price": 4.49,
+        "label": "Blueberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Grapes": {
+        "price": 4.49,
+        "label": "Grapes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oranges": {
+        "price": 4.49,
+        "label": "Oranges",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Avocados": {
+        "price": 4.49,
+        "label": "Avocados",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lettuce": {
+        "price": 2.49,
+        "label": "Lettuce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Spinach": {
+        "price": 3.49,
+        "label": "Spinach",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomatoes": {
+        "price": 3.49,
+        "label": "Tomatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Onions": {
+        "price": 2.49,
+        "label": "Onions",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Garlic": {
+        "price": 1.49,
+        "label": "Garlic",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bell Peppers": {
+        "price": 3.49,
+        "label": "Bell Peppers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Potatoes": {
+        "price": 4.49,
+        "label": "Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sweet Potatoes": {
+        "price": 3.49,
+        "label": "Sweet Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Carrots": {
+        "price": 2.49,
+        "label": "Carrots",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Broccoli": {
+        "price": 2.99,
+        "label": "Broccoli",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cauliflower": {
+        "price": 3.49,
+        "label": "Cauliflower",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Zucchini": {
+        "price": 2.49,
+        "label": "Zucchini",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cucumbers": {
+        "price": 2.49,
+        "label": "Cucumbers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Celery": {
+        "price": 2.49,
+        "label": "Celery",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mushrooms": {
+        "price": 2.99,
+        "label": "Mushrooms",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemons": {
+        "price": 2.49,
+        "label": "Lemons",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Limes": {
+        "price": 2.49,
+        "label": "Limes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pineapple": {
+        "price": 3.49,
+        "label": "Pineapple",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Watermelon": {
+        "price": 5.49,
+        "label": "Watermelon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mango": {
+        "price": 2.49,
+        "label": "Mango",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peaches": {
+        "price": 4.49,
+        "label": "Peaches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bread": {
+        "price": 3.49,
+        "label": "Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bagels": {
+        "price": 3.49,
+        "label": "Bagels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tortillas": {
+        "price": 2.99,
+        "label": "Tortillas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hamburger Buns": {
+        "price": 3.49,
+        "label": "Hamburger Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dog Buns": {
+        "price": 2.99,
+        "label": "Hot Dog Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Croissants": {
+        "price": 4.99,
+        "label": "Croissants",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Muffins": {
+        "price": 4.49,
+        "label": "Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "English Muffins": {
+        "price": 3.49,
+        "label": "English Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Dinner Rolls": {
+        "price": 3.49,
+        "label": "Dinner Rolls",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pita Bread": {
+        "price": 3.49,
+        "label": "Pita Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Donuts": {
+        "price": 4.99,
+        "label": "Donuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cake": {
+        "price": 10.49,
+        "label": "Cake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cookies": {
+        "price": 4.49,
+        "label": "Cookies",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice": {
+        "price": 4.99,
+        "label": "Rice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pasta": {
+        "price": 2.49,
+        "label": "Pasta",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mac and Cheese": {
+        "price": 1.49,
+        "label": "Mac and Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Flour": {
+        "price": 4.49,
+        "label": "Flour",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sugar": {
+        "price": 3.49,
+        "label": "Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Brown Sugar": {
+        "price": 2.99,
+        "label": "Brown Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salt": {
+        "price": 1.49,
+        "label": "Salt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pepper": {
+        "price": 3.49,
+        "label": "Pepper",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Olive Oil": {
+        "price": 8.49,
+        "label": "Olive Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vegetable Oil": {
+        "price": 4.99,
+        "label": "Vegetable Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vinegar": {
+        "price": 2.99,
+        "label": "Vinegar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ketchup": {
+        "price": 3.49,
+        "label": "Ketchup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mustard": {
+        "price": 2.49,
+        "label": "Mustard",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mayonnaise": {
+        "price": 4.49,
+        "label": "Mayonnaise",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soy Sauce": {
+        "price": 3.49,
+        "label": "Soy Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Sauce": {
+        "price": 2.99,
+        "label": "Hot Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "BBQ Sauce": {
+        "price": 3.49,
+        "label": "BBQ Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peanut Butter": {
+        "price": 4.49,
+        "label": "Peanut Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jelly": {
+        "price": 3.49,
+        "label": "Jelly",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Honey": {
+        "price": 6.49,
+        "label": "Honey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Maple Syrup": {
+        "price": 7.49,
+        "label": "Maple Syrup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Beans": {
+        "price": 1.49,
+        "label": "Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Black Beans": {
+        "price": 1.49,
+        "label": "Black Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chickpeas": {
+        "price": 1.49,
+        "label": "Chickpeas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lentils": {
+        "price": 2.49,
+        "label": "Lentils",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oatmeal": {
+        "price": 4.49,
+        "label": "Oatmeal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cereal": {
+        "price": 4.49,
+        "label": "Cereal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pancake Mix": {
+        "price": 3.49,
+        "label": "Pancake Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Broth": {
+        "price": 2.99,
+        "label": "Chicken Broth",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomato Sauce": {
+        "price": 1.49,
+        "label": "Tomato Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Corn": {
+        "price": 1.49,
+        "label": "Canned Corn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Tuna": {
+        "price": 2.49,
+        "label": "Canned Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Pizza": {
+        "price": 5.49,
+        "label": "Frozen Pizza",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice Cream": {
+        "price": 4.49,
+        "label": "Ice Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Vegetables": {
+        "price": 2.49,
+        "label": "Frozen Vegetables",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Fruit": {
+        "price": 4.49,
+        "label": "Frozen Fruit",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Nuggets": {
+        "price": 6.49,
+        "label": "Chicken Nuggets",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fries": {
+        "price": 3.49,
+        "label": "Fries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Waffles": {
+        "price": 3.49,
+        "label": "Waffles",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Breakfast Sandwiches": {
+        "price": 5.49,
+        "label": "Breakfast Sandwiches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Burritos": {
+        "price": 4.49,
+        "label": "Frozen Burritos",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Meals": {
+        "price": 4.49,
+        "label": "Frozen Meals",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice": {
+        "price": 2.49,
+        "label": "Ice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Shrimp": {
+        "price": 8.49,
+        "label": "Frozen Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chips": {
+        "price": 4.49,
+        "label": "Chips",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Popcorn": {
+        "price": 3.49,
+        "label": "Popcorn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crackers": {
+        "price": 3.49,
+        "label": "Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Granola Bars": {
+        "price": 4.49,
+        "label": "Granola Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pretzels": {
+        "price": 2.99,
+        "label": "Pretzels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Trail Mix": {
+        "price": 5.49,
+        "label": "Trail Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Nuts": {
+        "price": 6.49,
+        "label": "Nuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Bars": {
+        "price": 7.49,
+        "label": "Protein Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chocolate": {
+        "price": 2.99,
+        "label": "Chocolate",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Candy": {
+        "price": 3.49,
+        "label": "Candy",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fruit Snacks": {
+        "price": 3.49,
+        "label": "Fruit Snacks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice Cakes": {
+        "price": 2.99,
+        "label": "Rice Cakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jerky": {
+        "price": 6.49,
+        "label": "Jerky",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese Crackers": {
+        "price": 3.49,
+        "label": "Cheese Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Gum": {
+        "price": 2.49,
+        "label": "Gum",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cupcakes": {
+        "price": 4.99,
+        "label": "Cupcakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Water": {
+        "price": 4.49,
+        "label": "Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sparkling Water": {
+        "price": 4.99,
+        "label": "Sparkling Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Orange Juice": {
+        "price": 4.49,
+        "label": "Orange Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apple Juice": {
+        "price": 3.49,
+        "label": "Apple Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soda": {
+        "price": 6.49,
+        "label": "Soda",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coffee": {
+        "price": 8.49,
+        "label": "Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Creamer": {
+        "price": 3.49,
+        "label": "Creamer",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tea": {
+        "price": 4.49,
+        "label": "Tea",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Energy Drinks": {
+        "price": 7.49,
+        "label": "Energy Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sports Drinks": {
+        "price": 5.49,
+        "label": "Sports Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemonade": {
+        "price": 2.99,
+        "label": "Lemonade",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Iced Coffee": {
+        "price": 4.49,
+        "label": "Iced Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coconut Water": {
+        "price": 4.49,
+        "label": "Coconut Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Electrolyte Drinks": {
+        "price": 5.49,
+        "label": "Electrolyte Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Shake": {
+        "price": 7.49,
+        "label": "Protein Shake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      }
+    },
+    "ralphs": {
+      "Milk": {
+        "price": 4.49,
+        "label": "Milk",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Eggs": {
+        "price": 5.49,
+        "label": "Eggs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese": {
+        "price": 5.49,
+        "label": "Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Butter": {
+        "price": 4.49,
+        "label": "Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Yogurt": {
+        "price": 4.49,
+        "label": "Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Greek Yogurt": {
+        "price": 5.49,
+        "label": "Greek Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cream Cheese": {
+        "price": 3.49,
+        "label": "Cream Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sour Cream": {
+        "price": 3.49,
+        "label": "Sour Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Heavy Cream": {
+        "price": 5.49,
+        "label": "Heavy Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Half and Half": {
+        "price": 4.49,
+        "label": "Half and Half",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cottage Cheese": {
+        "price": 4.49,
+        "label": "Cottage Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mozzarella": {
+        "price": 5.49,
+        "label": "Mozzarella",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheddar": {
+        "price": 5.49,
+        "label": "Cheddar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Parmesan": {
+        "price": 6.49,
+        "label": "Parmesan",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "String Cheese": {
+        "price": 5.49,
+        "label": "String Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Whipped Cream": {
+        "price": 3.49,
+        "label": "Whipped Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken": {
+        "price": 9.49,
+        "label": "Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ground Beef": {
+        "price": 8.49,
+        "label": "Ground Beef",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Steak": {
+        "price": 15.49,
+        "label": "Steak",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Turkey": {
+        "price": 8.99,
+        "label": "Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bacon": {
+        "price": 7.49,
+        "label": "Bacon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ham": {
+        "price": 6.49,
+        "label": "Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sausage": {
+        "price": 6.49,
+        "label": "Sausage",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pork Chops": {
+        "price": 7.49,
+        "label": "Pork Chops",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salmon": {
+        "price": 13.49,
+        "label": "Salmon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tilapia": {
+        "price": 9.49,
+        "label": "Tilapia",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Shrimp": {
+        "price": 10.49,
+        "label": "Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tuna": {
+        "price": 2.49,
+        "label": "Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crab Meat": {
+        "price": 13.49,
+        "label": "Crab Meat",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rotisserie Chicken": {
+        "price": 8.49,
+        "label": "Rotisserie Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Turkey": {
+        "price": 7.49,
+        "label": "Deli Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Ham": {
+        "price": 7.49,
+        "label": "Deli Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dogs": {
+        "price": 5.49,
+        "label": "Hot Dogs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Meatballs": {
+        "price": 6.49,
+        "label": "Meatballs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bananas": {
+        "price": 2.49,
+        "label": "Bananas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apples": {
+        "price": 5.49,
+        "label": "Apples",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Strawberries": {
+        "price": 5.49,
+        "label": "Strawberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Blueberries": {
+        "price": 5.49,
+        "label": "Blueberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Grapes": {
+        "price": 5.49,
+        "label": "Grapes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oranges": {
+        "price": 5.49,
+        "label": "Oranges",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Avocados": {
+        "price": 5.49,
+        "label": "Avocados",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lettuce": {
+        "price": 3.49,
+        "label": "Lettuce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Spinach": {
+        "price": 4.49,
+        "label": "Spinach",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomatoes": {
+        "price": 4.49,
+        "label": "Tomatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Onions": {
+        "price": 3.49,
+        "label": "Onions",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Garlic": {
+        "price": 1.49,
+        "label": "Garlic",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bell Peppers": {
+        "price": 4.49,
+        "label": "Bell Peppers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Potatoes": {
+        "price": 5.49,
+        "label": "Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sweet Potatoes": {
+        "price": 4.49,
+        "label": "Sweet Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Carrots": {
+        "price": 3.49,
+        "label": "Carrots",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Broccoli": {
+        "price": 3.49,
+        "label": "Broccoli",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cauliflower": {
+        "price": 4.49,
+        "label": "Cauliflower",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Zucchini": {
+        "price": 3.49,
+        "label": "Zucchini",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cucumbers": {
+        "price": 2.49,
+        "label": "Cucumbers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Celery": {
+        "price": 3.49,
+        "label": "Celery",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mushrooms": {
+        "price": 3.49,
+        "label": "Mushrooms",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemons": {
+        "price": 3.49,
+        "label": "Lemons",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Limes": {
+        "price": 2.49,
+        "label": "Limes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pineapple": {
+        "price": 4.49,
+        "label": "Pineapple",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Watermelon": {
+        "price": 7.49,
+        "label": "Watermelon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mango": {
+        "price": 2.49,
+        "label": "Mango",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peaches": {
+        "price": 5.49,
+        "label": "Peaches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bread": {
+        "price": 4.49,
+        "label": "Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bagels": {
+        "price": 4.49,
+        "label": "Bagels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tortillas": {
+        "price": 3.49,
+        "label": "Tortillas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hamburger Buns": {
+        "price": 4.49,
+        "label": "Hamburger Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dog Buns": {
+        "price": 3.49,
+        "label": "Hot Dog Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Croissants": {
+        "price": 6.49,
+        "label": "Croissants",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Muffins": {
+        "price": 5.49,
+        "label": "Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "English Muffins": {
+        "price": 4.49,
+        "label": "English Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Dinner Rolls": {
+        "price": 4.49,
+        "label": "Dinner Rolls",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pita Bread": {
+        "price": 4.49,
+        "label": "Pita Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Donuts": {
+        "price": 6.49,
+        "label": "Donuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cake": {
+        "price": 13.49,
+        "label": "Cake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cookies": {
+        "price": 5.49,
+        "label": "Cookies",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice": {
+        "price": 6.49,
+        "label": "Rice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pasta": {
+        "price": 2.49,
+        "label": "Pasta",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mac and Cheese": {
+        "price": 2.49,
+        "label": "Mac and Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Flour": {
+        "price": 5.49,
+        "label": "Flour",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sugar": {
+        "price": 4.49,
+        "label": "Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Brown Sugar": {
+        "price": 3.49,
+        "label": "Brown Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salt": {
+        "price": 2.49,
+        "label": "Salt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pepper": {
+        "price": 4.49,
+        "label": "Pepper",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Olive Oil": {
+        "price": 10.49,
+        "label": "Olive Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vegetable Oil": {
+        "price": 6.49,
+        "label": "Vegetable Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vinegar": {
+        "price": 3.49,
+        "label": "Vinegar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ketchup": {
+        "price": 4.49,
+        "label": "Ketchup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mustard": {
+        "price": 2.49,
+        "label": "Mustard",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mayonnaise": {
+        "price": 5.49,
+        "label": "Mayonnaise",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soy Sauce": {
+        "price": 4.49,
+        "label": "Soy Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Sauce": {
+        "price": 3.49,
+        "label": "Hot Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "BBQ Sauce": {
+        "price": 4.49,
+        "label": "BBQ Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peanut Butter": {
+        "price": 5.49,
+        "label": "Peanut Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jelly": {
+        "price": 4.49,
+        "label": "Jelly",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Honey": {
+        "price": 8.49,
+        "label": "Honey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Maple Syrup": {
+        "price": 9.49,
+        "label": "Maple Syrup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Beans": {
+        "price": 1.99,
+        "label": "Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Black Beans": {
+        "price": 1.99,
+        "label": "Black Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chickpeas": {
+        "price": 1.99,
+        "label": "Chickpeas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lentils": {
+        "price": 2.49,
+        "label": "Lentils",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oatmeal": {
+        "price": 5.49,
+        "label": "Oatmeal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cereal": {
+        "price": 5.49,
+        "label": "Cereal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pancake Mix": {
+        "price": 4.49,
+        "label": "Pancake Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Broth": {
+        "price": 3.49,
+        "label": "Chicken Broth",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomato Sauce": {
+        "price": 1.99,
+        "label": "Tomato Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Corn": {
+        "price": 1.49,
+        "label": "Canned Corn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Tuna": {
+        "price": 2.49,
+        "label": "Canned Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Pizza": {
+        "price": 7.49,
+        "label": "Frozen Pizza",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice Cream": {
+        "price": 5.49,
+        "label": "Ice Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Vegetables": {
+        "price": 3.49,
+        "label": "Frozen Vegetables",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Fruit": {
+        "price": 5.49,
+        "label": "Frozen Fruit",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Nuggets": {
+        "price": 8.49,
+        "label": "Chicken Nuggets",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fries": {
+        "price": 4.49,
+        "label": "Fries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Waffles": {
+        "price": 4.49,
+        "label": "Waffles",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Breakfast Sandwiches": {
+        "price": 7.49,
+        "label": "Breakfast Sandwiches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Burritos": {
+        "price": 5.49,
+        "label": "Frozen Burritos",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Meals": {
+        "price": 5.49,
+        "label": "Frozen Meals",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice": {
+        "price": 3.49,
+        "label": "Ice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Shrimp": {
+        "price": 10.49,
+        "label": "Frozen Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chips": {
+        "price": 5.49,
+        "label": "Chips",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Popcorn": {
+        "price": 4.49,
+        "label": "Popcorn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crackers": {
+        "price": 4.49,
+        "label": "Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Granola Bars": {
+        "price": 5.49,
+        "label": "Granola Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pretzels": {
+        "price": 3.49,
+        "label": "Pretzels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Trail Mix": {
+        "price": 7.49,
+        "label": "Trail Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Nuts": {
+        "price": 8.49,
+        "label": "Nuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Bars": {
+        "price": 9.49,
+        "label": "Protein Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chocolate": {
+        "price": 3.49,
+        "label": "Chocolate",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Candy": {
+        "price": 4.49,
+        "label": "Candy",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fruit Snacks": {
+        "price": 4.49,
+        "label": "Fruit Snacks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice Cakes": {
+        "price": 3.49,
+        "label": "Rice Cakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jerky": {
+        "price": 8.49,
+        "label": "Jerky",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese Crackers": {
+        "price": 4.49,
+        "label": "Cheese Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Gum": {
+        "price": 2.49,
+        "label": "Gum",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cupcakes": {
+        "price": 6.49,
+        "label": "Cupcakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Water": {
+        "price": 5.49,
+        "label": "Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sparkling Water": {
+        "price": 6.49,
+        "label": "Sparkling Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Orange Juice": {
+        "price": 5.49,
+        "label": "Orange Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apple Juice": {
+        "price": 4.49,
+        "label": "Apple Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soda": {
+        "price": 8.49,
+        "label": "Soda",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coffee": {
+        "price": 10.49,
+        "label": "Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Creamer": {
+        "price": 4.49,
+        "label": "Creamer",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tea": {
+        "price": 5.49,
+        "label": "Tea",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Energy Drinks": {
+        "price": 9.49,
+        "label": "Energy Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sports Drinks": {
+        "price": 7.49,
+        "label": "Sports Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemonade": {
+        "price": 3.49,
+        "label": "Lemonade",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Iced Coffee": {
+        "price": 5.49,
+        "label": "Iced Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coconut Water": {
+        "price": 5.49,
+        "label": "Coconut Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Electrolyte Drinks": {
+        "price": 7.49,
+        "label": "Electrolyte Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Shake": {
+        "price": 9.49,
+        "label": "Protein Shake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      }
+    },
+    "wholefoods": {
+      "Milk": {
+        "price": 5.49,
+        "label": "Milk",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Eggs": {
+        "price": 7.49,
+        "label": "Eggs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese": {
+        "price": 6.49,
+        "label": "Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Butter": {
+        "price": 5.99,
+        "label": "Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Yogurt": {
+        "price": 5.49,
+        "label": "Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Greek Yogurt": {
+        "price": 7.49,
+        "label": "Greek Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cream Cheese": {
+        "price": 4.49,
+        "label": "Cream Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sour Cream": {
+        "price": 3.99,
+        "label": "Sour Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Heavy Cream": {
+        "price": 6.99,
+        "label": "Heavy Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Half and Half": {
+        "price": 5.99,
+        "label": "Half and Half",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cottage Cheese": {
+        "price": 5.49,
+        "label": "Cottage Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mozzarella": {
+        "price": 6.49,
+        "label": "Mozzarella",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheddar": {
+        "price": 6.49,
+        "label": "Cheddar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Parmesan": {
+        "price": 7.49,
+        "label": "Parmesan",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "String Cheese": {
+        "price": 7.49,
+        "label": "String Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Whipped Cream": {
+        "price": 4.49,
+        "label": "Whipped Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken": {
+        "price": 11.49,
+        "label": "Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ground Beef": {
+        "price": 10.49,
+        "label": "Ground Beef",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Steak": {
+        "price": 20.49,
+        "label": "Steak",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Turkey": {
+        "price": 10.99,
+        "label": "Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bacon": {
+        "price": 8.99,
+        "label": "Bacon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ham": {
+        "price": 8.49,
+        "label": "Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sausage": {
+        "price": 7.49,
+        "label": "Sausage",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pork Chops": {
+        "price": 9.49,
+        "label": "Pork Chops",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salmon": {
+        "price": 17.99,
+        "label": "Salmon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tilapia": {
+        "price": 11.49,
+        "label": "Tilapia",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Shrimp": {
+        "price": 13.99,
+        "label": "Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tuna": {
+        "price": 3.49,
+        "label": "Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crab Meat": {
+        "price": 16.49,
+        "label": "Crab Meat",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rotisserie Chicken": {
+        "price": 10.49,
+        "label": "Rotisserie Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Turkey": {
+        "price": 9.49,
+        "label": "Deli Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Ham": {
+        "price": 8.99,
+        "label": "Deli Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dogs": {
+        "price": 6.49,
+        "label": "Hot Dogs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Meatballs": {
+        "price": 7.49,
+        "label": "Meatballs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bananas": {
+        "price": 2.49,
+        "label": "Bananas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apples": {
+        "price": 6.49,
+        "label": "Apples",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Strawberries": {
+        "price": 6.49,
+        "label": "Strawberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Blueberries": {
+        "price": 6.49,
+        "label": "Blueberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Grapes": {
+        "price": 6.49,
+        "label": "Grapes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oranges": {
+        "price": 7.49,
+        "label": "Oranges",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Avocados": {
+        "price": 6.49,
+        "label": "Avocados",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lettuce": {
+        "price": 3.99,
+        "label": "Lettuce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Spinach": {
+        "price": 5.49,
+        "label": "Spinach",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomatoes": {
+        "price": 5.49,
+        "label": "Tomatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Onions": {
+        "price": 3.99,
+        "label": "Onions",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Garlic": {
+        "price": 1.99,
+        "label": "Garlic",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bell Peppers": {
+        "price": 5.99,
+        "label": "Bell Peppers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Potatoes": {
+        "price": 6.49,
+        "label": "Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sweet Potatoes": {
+        "price": 5.49,
+        "label": "Sweet Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Carrots": {
+        "price": 3.99,
+        "label": "Carrots",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Broccoli": {
+        "price": 4.49,
+        "label": "Broccoli",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cauliflower": {
+        "price": 5.49,
+        "label": "Cauliflower",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Zucchini": {
+        "price": 3.99,
+        "label": "Zucchini",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cucumbers": {
+        "price": 3.49,
+        "label": "Cucumbers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Celery": {
+        "price": 3.99,
+        "label": "Celery",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mushrooms": {
+        "price": 4.49,
+        "label": "Mushrooms",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemons": {
+        "price": 3.99,
+        "label": "Lemons",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Limes": {
+        "price": 3.49,
+        "label": "Limes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pineapple": {
+        "price": 5.49,
+        "label": "Pineapple",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Watermelon": {
+        "price": 8.99,
+        "label": "Watermelon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mango": {
+        "price": 3.49,
+        "label": "Mango",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peaches": {
+        "price": 6.49,
+        "label": "Peaches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bread": {
+        "price": 5.49,
+        "label": "Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bagels": {
+        "price": 5.99,
+        "label": "Bagels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tortillas": {
+        "price": 4.49,
+        "label": "Tortillas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hamburger Buns": {
+        "price": 5.49,
+        "label": "Hamburger Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dog Buns": {
+        "price": 4.49,
+        "label": "Hot Dog Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Croissants": {
+        "price": 7.49,
+        "label": "Croissants",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Muffins": {
+        "price": 7.49,
+        "label": "Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "English Muffins": {
+        "price": 5.49,
+        "label": "English Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Dinner Rolls": {
+        "price": 5.99,
+        "label": "Dinner Rolls",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pita Bread": {
+        "price": 5.49,
+        "label": "Pita Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Donuts": {
+        "price": 7.49,
+        "label": "Donuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cake": {
+        "price": 16.49,
+        "label": "Cake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cookies": {
+        "price": 6.49,
+        "label": "Cookies",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice": {
+        "price": 7.49,
+        "label": "Rice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pasta": {
+        "price": 3.49,
+        "label": "Pasta",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mac and Cheese": {
+        "price": 2.49,
+        "label": "Mac and Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Flour": {
+        "price": 6.49,
+        "label": "Flour",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sugar": {
+        "price": 5.99,
+        "label": "Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Brown Sugar": {
+        "price": 4.49,
+        "label": "Brown Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salt": {
+        "price": 2.49,
+        "label": "Salt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pepper": {
+        "price": 5.49,
+        "label": "Pepper",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Olive Oil": {
+        "price": 13.99,
+        "label": "Olive Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vegetable Oil": {
+        "price": 7.49,
+        "label": "Vegetable Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vinegar": {
+        "price": 4.49,
+        "label": "Vinegar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ketchup": {
+        "price": 5.49,
+        "label": "Ketchup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mustard": {
+        "price": 3.49,
+        "label": "Mustard",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mayonnaise": {
+        "price": 7.49,
+        "label": "Mayonnaise",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soy Sauce": {
+        "price": 5.49,
+        "label": "Soy Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Sauce": {
+        "price": 4.49,
+        "label": "Hot Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "BBQ Sauce": {
+        "price": 5.49,
+        "label": "BBQ Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peanut Butter": {
+        "price": 6.49,
+        "label": "Peanut Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jelly": {
+        "price": 5.49,
+        "label": "Jelly",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Honey": {
+        "price": 11.49,
+        "label": "Honey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Maple Syrup": {
+        "price": 12.49,
+        "label": "Maple Syrup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Beans": {
+        "price": 2.49,
+        "label": "Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Black Beans": {
+        "price": 2.49,
+        "label": "Black Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chickpeas": {
+        "price": 2.49,
+        "label": "Chickpeas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lentils": {
+        "price": 3.49,
+        "label": "Lentils",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oatmeal": {
+        "price": 6.49,
+        "label": "Oatmeal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cereal": {
+        "price": 7.49,
+        "label": "Cereal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pancake Mix": {
+        "price": 5.99,
+        "label": "Pancake Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Broth": {
+        "price": 4.49,
+        "label": "Chicken Broth",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomato Sauce": {
+        "price": 2.49,
+        "label": "Tomato Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Corn": {
+        "price": 1.99,
+        "label": "Canned Corn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Tuna": {
+        "price": 3.49,
+        "label": "Canned Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Pizza": {
+        "price": 8.99,
+        "label": "Frozen Pizza",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice Cream": {
+        "price": 7.49,
+        "label": "Ice Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Vegetables": {
+        "price": 3.99,
+        "label": "Frozen Vegetables",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Fruit": {
+        "price": 6.49,
+        "label": "Frozen Fruit",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Nuggets": {
+        "price": 10.49,
+        "label": "Chicken Nuggets",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fries": {
+        "price": 5.99,
+        "label": "Fries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Waffles": {
+        "price": 5.49,
+        "label": "Waffles",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Breakfast Sandwiches": {
+        "price": 8.99,
+        "label": "Breakfast Sandwiches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Burritos": {
+        "price": 6.49,
+        "label": "Frozen Burritos",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Meals": {
+        "price": 6.49,
+        "label": "Frozen Meals",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice": {
+        "price": 3.99,
+        "label": "Ice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Shrimp": {
+        "price": 12.99,
+        "label": "Frozen Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chips": {
+        "price": 6.49,
+        "label": "Chips",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Popcorn": {
+        "price": 5.49,
+        "label": "Popcorn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crackers": {
+        "price": 5.99,
+        "label": "Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Granola Bars": {
+        "price": 7.49,
+        "label": "Granola Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pretzels": {
+        "price": 4.49,
+        "label": "Pretzels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Trail Mix": {
+        "price": 8.99,
+        "label": "Trail Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Nuts": {
+        "price": 10.49,
+        "label": "Nuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Bars": {
+        "price": 12.49,
+        "label": "Protein Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chocolate": {
+        "price": 4.49,
+        "label": "Chocolate",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Candy": {
+        "price": 5.49,
+        "label": "Candy",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fruit Snacks": {
+        "price": 5.99,
+        "label": "Fruit Snacks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice Cakes": {
+        "price": 4.49,
+        "label": "Rice Cakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jerky": {
+        "price": 10.49,
+        "label": "Jerky",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese Crackers": {
+        "price": 5.99,
+        "label": "Cheese Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Gum": {
+        "price": 3.49,
+        "label": "Gum",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cupcakes": {
+        "price": 7.49,
+        "label": "Cupcakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Water": {
+        "price": 6.49,
+        "label": "Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sparkling Water": {
+        "price": 7.49,
+        "label": "Sparkling Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Orange Juice": {
+        "price": 6.49,
+        "label": "Orange Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apple Juice": {
+        "price": 5.49,
+        "label": "Apple Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soda": {
+        "price": 10.49,
+        "label": "Soda",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coffee": {
+        "price": 13.99,
+        "label": "Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Creamer": {
+        "price": 5.99,
+        "label": "Creamer",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tea": {
+        "price": 6.49,
+        "label": "Tea",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Energy Drinks": {
+        "price": 11.49,
+        "label": "Energy Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sports Drinks": {
+        "price": 8.99,
+        "label": "Sports Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemonade": {
+        "price": 4.49,
+        "label": "Lemonade",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Iced Coffee": {
+        "price": 7.49,
+        "label": "Iced Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coconut Water": {
+        "price": 6.49,
+        "label": "Coconut Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Electrolyte Drinks": {
+        "price": 8.99,
+        "label": "Electrolyte Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Shake": {
+        "price": 12.49,
+        "label": "Protein Shake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      }
+    },
+    "food4less": {
+      "Milk": {
+        "price": 3.49,
+        "label": "Milk",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Eggs": {
+        "price": 4.49,
+        "label": "Eggs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese": {
+        "price": 4.49,
+        "label": "Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Butter": {
+        "price": 3.99,
+        "label": "Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Yogurt": {
+        "price": 3.49,
+        "label": "Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Greek Yogurt": {
+        "price": 4.49,
+        "label": "Greek Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cream Cheese": {
+        "price": 3.49,
+        "label": "Cream Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sour Cream": {
+        "price": 2.49,
+        "label": "Sour Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Heavy Cream": {
+        "price": 4.49,
+        "label": "Heavy Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Half and Half": {
+        "price": 3.99,
+        "label": "Half and Half",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cottage Cheese": {
+        "price": 3.49,
+        "label": "Cottage Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mozzarella": {
+        "price": 4.49,
+        "label": "Mozzarella",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheddar": {
+        "price": 4.49,
+        "label": "Cheddar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Parmesan": {
+        "price": 5.49,
+        "label": "Parmesan",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "String Cheese": {
+        "price": 4.49,
+        "label": "String Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Whipped Cream": {
+        "price": 3.49,
+        "label": "Whipped Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken": {
+        "price": 7.49,
+        "label": "Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ground Beef": {
+        "price": 6.99,
+        "label": "Ground Beef",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Steak": {
+        "price": 12.99,
+        "label": "Steak",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Turkey": {
+        "price": 7.49,
+        "label": "Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bacon": {
+        "price": 6.49,
+        "label": "Bacon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ham": {
+        "price": 5.49,
+        "label": "Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sausage": {
+        "price": 5.49,
+        "label": "Sausage",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pork Chops": {
+        "price": 6.49,
+        "label": "Pork Chops",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salmon": {
+        "price": 11.49,
+        "label": "Salmon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tilapia": {
+        "price": 7.49,
+        "label": "Tilapia",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Shrimp": {
+        "price": 8.49,
+        "label": "Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tuna": {
+        "price": 2.49,
+        "label": "Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crab Meat": {
+        "price": 11.49,
+        "label": "Crab Meat",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rotisserie Chicken": {
+        "price": 6.99,
+        "label": "Rotisserie Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Turkey": {
+        "price": 6.49,
+        "label": "Deli Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Ham": {
+        "price": 6.49,
+        "label": "Deli Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dogs": {
+        "price": 4.49,
+        "label": "Hot Dogs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Meatballs": {
+        "price": 5.49,
+        "label": "Meatballs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bananas": {
+        "price": 1.49,
+        "label": "Bananas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apples": {
+        "price": 4.49,
+        "label": "Apples",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Strawberries": {
+        "price": 4.49,
+        "label": "Strawberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Blueberries": {
+        "price": 4.49,
+        "label": "Blueberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Grapes": {
+        "price": 4.49,
+        "label": "Grapes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oranges": {
+        "price": 4.49,
+        "label": "Oranges",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Avocados": {
+        "price": 4.49,
+        "label": "Avocados",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lettuce": {
+        "price": 2.49,
+        "label": "Lettuce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Spinach": {
+        "price": 3.49,
+        "label": "Spinach",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomatoes": {
+        "price": 3.49,
+        "label": "Tomatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Onions": {
+        "price": 2.49,
+        "label": "Onions",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Garlic": {
+        "price": 1.49,
+        "label": "Garlic",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bell Peppers": {
+        "price": 3.99,
+        "label": "Bell Peppers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Potatoes": {
+        "price": 4.49,
+        "label": "Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sweet Potatoes": {
+        "price": 3.49,
+        "label": "Sweet Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Carrots": {
+        "price": 2.49,
+        "label": "Carrots",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Broccoli": {
+        "price": 3.49,
+        "label": "Broccoli",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cauliflower": {
+        "price": 3.49,
+        "label": "Cauliflower",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Zucchini": {
+        "price": 2.49,
+        "label": "Zucchini",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cucumbers": {
+        "price": 2.49,
+        "label": "Cucumbers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Celery": {
+        "price": 2.49,
+        "label": "Celery",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mushrooms": {
+        "price": 3.49,
+        "label": "Mushrooms",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemons": {
+        "price": 2.49,
+        "label": "Lemons",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Limes": {
+        "price": 2.49,
+        "label": "Limes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pineapple": {
+        "price": 3.49,
+        "label": "Pineapple",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Watermelon": {
+        "price": 6.49,
+        "label": "Watermelon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mango": {
+        "price": 2.49,
+        "label": "Mango",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peaches": {
+        "price": 4.49,
+        "label": "Peaches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bread": {
+        "price": 3.49,
+        "label": "Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bagels": {
+        "price": 3.99,
+        "label": "Bagels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tortillas": {
+        "price": 3.49,
+        "label": "Tortillas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hamburger Buns": {
+        "price": 3.49,
+        "label": "Hamburger Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dog Buns": {
+        "price": 3.49,
+        "label": "Hot Dog Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Croissants": {
+        "price": 5.49,
+        "label": "Croissants",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Muffins": {
+        "price": 4.49,
+        "label": "Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "English Muffins": {
+        "price": 3.49,
+        "label": "English Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Dinner Rolls": {
+        "price": 3.99,
+        "label": "Dinner Rolls",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pita Bread": {
+        "price": 3.49,
+        "label": "Pita Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Donuts": {
+        "price": 5.49,
+        "label": "Donuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cake": {
+        "price": 11.49,
+        "label": "Cake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cookies": {
+        "price": 4.49,
+        "label": "Cookies",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice": {
+        "price": 5.49,
+        "label": "Rice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pasta": {
+        "price": 2.49,
+        "label": "Pasta",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mac and Cheese": {
+        "price": 1.49,
+        "label": "Mac and Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Flour": {
+        "price": 4.49,
+        "label": "Flour",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sugar": {
+        "price": 3.99,
+        "label": "Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Brown Sugar": {
+        "price": 3.49,
+        "label": "Brown Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salt": {
+        "price": 1.49,
+        "label": "Salt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pepper": {
+        "price": 3.49,
+        "label": "Pepper",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Olive Oil": {
+        "price": 8.49,
+        "label": "Olive Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vegetable Oil": {
+        "price": 5.49,
+        "label": "Vegetable Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vinegar": {
+        "price": 3.49,
+        "label": "Vinegar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ketchup": {
+        "price": 3.49,
+        "label": "Ketchup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mustard": {
+        "price": 2.49,
+        "label": "Mustard",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mayonnaise": {
+        "price": 4.49,
+        "label": "Mayonnaise",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soy Sauce": {
+        "price": 3.49,
+        "label": "Soy Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Sauce": {
+        "price": 3.49,
+        "label": "Hot Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "BBQ Sauce": {
+        "price": 3.49,
+        "label": "BBQ Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peanut Butter": {
+        "price": 4.49,
+        "label": "Peanut Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jelly": {
+        "price": 3.49,
+        "label": "Jelly",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Honey": {
+        "price": 6.99,
+        "label": "Honey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Maple Syrup": {
+        "price": 7.49,
+        "label": "Maple Syrup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Beans": {
+        "price": 1.49,
+        "label": "Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Black Beans": {
+        "price": 1.49,
+        "label": "Black Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chickpeas": {
+        "price": 1.49,
+        "label": "Chickpeas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lentils": {
+        "price": 2.49,
+        "label": "Lentils",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oatmeal": {
+        "price": 4.49,
+        "label": "Oatmeal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cereal": {
+        "price": 4.49,
+        "label": "Cereal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pancake Mix": {
+        "price": 3.99,
+        "label": "Pancake Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Broth": {
+        "price": 3.49,
+        "label": "Chicken Broth",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomato Sauce": {
+        "price": 1.49,
+        "label": "Tomato Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Corn": {
+        "price": 1.49,
+        "label": "Canned Corn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Tuna": {
+        "price": 2.49,
+        "label": "Canned Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Pizza": {
+        "price": 6.49,
+        "label": "Frozen Pizza",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice Cream": {
+        "price": 4.49,
+        "label": "Ice Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Vegetables": {
+        "price": 2.49,
+        "label": "Frozen Vegetables",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Fruit": {
+        "price": 4.49,
+        "label": "Frozen Fruit",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Nuggets": {
+        "price": 6.99,
+        "label": "Chicken Nuggets",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fries": {
+        "price": 3.99,
+        "label": "Fries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Waffles": {
+        "price": 3.49,
+        "label": "Waffles",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Breakfast Sandwiches": {
+        "price": 6.49,
+        "label": "Breakfast Sandwiches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Burritos": {
+        "price": 4.49,
+        "label": "Frozen Burritos",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Meals": {
+        "price": 4.49,
+        "label": "Frozen Meals",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice": {
+        "price": 2.49,
+        "label": "Ice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Shrimp": {
+        "price": 8.49,
+        "label": "Frozen Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chips": {
+        "price": 4.49,
+        "label": "Chips",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Popcorn": {
+        "price": 3.49,
+        "label": "Popcorn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crackers": {
+        "price": 3.99,
+        "label": "Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Granola Bars": {
+        "price": 4.49,
+        "label": "Granola Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pretzels": {
+        "price": 3.49,
+        "label": "Pretzels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Trail Mix": {
+        "price": 6.49,
+        "label": "Trail Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Nuts": {
+        "price": 6.99,
+        "label": "Nuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Bars": {
+        "price": 7.49,
+        "label": "Protein Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chocolate": {
+        "price": 3.49,
+        "label": "Chocolate",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Candy": {
+        "price": 3.49,
+        "label": "Candy",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fruit Snacks": {
+        "price": 3.99,
+        "label": "Fruit Snacks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice Cakes": {
+        "price": 3.49,
+        "label": "Rice Cakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jerky": {
+        "price": 6.99,
+        "label": "Jerky",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese Crackers": {
+        "price": 3.99,
+        "label": "Cheese Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Gum": {
+        "price": 2.49,
+        "label": "Gum",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cupcakes": {
+        "price": 5.49,
+        "label": "Cupcakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Water": {
+        "price": 4.49,
+        "label": "Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sparkling Water": {
+        "price": 5.49,
+        "label": "Sparkling Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Orange Juice": {
+        "price": 4.49,
+        "label": "Orange Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apple Juice": {
+        "price": 3.49,
+        "label": "Apple Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soda": {
+        "price": 6.99,
+        "label": "Soda",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coffee": {
+        "price": 8.49,
+        "label": "Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Creamer": {
+        "price": 3.99,
+        "label": "Creamer",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tea": {
+        "price": 4.49,
+        "label": "Tea",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Energy Drinks": {
+        "price": 7.49,
+        "label": "Energy Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sports Drinks": {
+        "price": 6.49,
+        "label": "Sports Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemonade": {
+        "price": 3.49,
+        "label": "Lemonade",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Iced Coffee": {
+        "price": 4.49,
+        "label": "Iced Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coconut Water": {
+        "price": 4.49,
+        "label": "Coconut Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Electrolyte Drinks": {
+        "price": 6.49,
+        "label": "Electrolyte Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Shake": {
+        "price": 7.49,
+        "label": "Protein Shake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      }
+    },
+    "traderjoes": {
+      "Milk": {
+        "price": 4.49,
+        "label": "Milk",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Eggs": {
+        "price": 5.49,
+        "label": "Eggs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese": {
+        "price": 5.49,
+        "label": "Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Butter": {
+        "price": 4.49,
+        "label": "Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Yogurt": {
+        "price": 4.49,
+        "label": "Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Greek Yogurt": {
+        "price": 5.49,
+        "label": "Greek Yogurt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cream Cheese": {
+        "price": 3.49,
+        "label": "Cream Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sour Cream": {
+        "price": 3.49,
+        "label": "Sour Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Heavy Cream": {
+        "price": 5.49,
+        "label": "Heavy Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Half and Half": {
+        "price": 4.49,
+        "label": "Half and Half",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cottage Cheese": {
+        "price": 4.49,
+        "label": "Cottage Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mozzarella": {
+        "price": 5.49,
+        "label": "Mozzarella",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheddar": {
+        "price": 5.49,
+        "label": "Cheddar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Parmesan": {
+        "price": 6.49,
+        "label": "Parmesan",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "String Cheese": {
+        "price": 5.49,
+        "label": "String Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Whipped Cream": {
+        "price": 3.49,
+        "label": "Whipped Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken": {
+        "price": 9.49,
+        "label": "Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ground Beef": {
+        "price": 8.49,
+        "label": "Ground Beef",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Steak": {
+        "price": 15.49,
+        "label": "Steak",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Turkey": {
+        "price": 8.49,
+        "label": "Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bacon": {
+        "price": 7.49,
+        "label": "Bacon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ham": {
+        "price": 6.49,
+        "label": "Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sausage": {
+        "price": 6.49,
+        "label": "Sausage",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pork Chops": {
+        "price": 7.49,
+        "label": "Pork Chops",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salmon": {
+        "price": 13.49,
+        "label": "Salmon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tilapia": {
+        "price": 9.49,
+        "label": "Tilapia",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Shrimp": {
+        "price": 10.49,
+        "label": "Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tuna": {
+        "price": 2.49,
+        "label": "Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crab Meat": {
+        "price": 13.49,
+        "label": "Crab Meat",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rotisserie Chicken": {
+        "price": 8.49,
+        "label": "Rotisserie Chicken",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Turkey": {
+        "price": 7.49,
+        "label": "Deli Turkey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Deli Ham": {
+        "price": 7.49,
+        "label": "Deli Ham",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dogs": {
+        "price": 5.49,
+        "label": "Hot Dogs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Meatballs": {
+        "price": 6.49,
+        "label": "Meatballs",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bananas": {
+        "price": 2.49,
+        "label": "Bananas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apples": {
+        "price": 5.49,
+        "label": "Apples",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Strawberries": {
+        "price": 5.49,
+        "label": "Strawberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Blueberries": {
+        "price": 5.49,
+        "label": "Blueberries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Grapes": {
+        "price": 5.49,
+        "label": "Grapes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oranges": {
+        "price": 5.49,
+        "label": "Oranges",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Avocados": {
+        "price": 5.49,
+        "label": "Avocados",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lettuce": {
+        "price": 3.49,
+        "label": "Lettuce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Spinach": {
+        "price": 4.49,
+        "label": "Spinach",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomatoes": {
+        "price": 4.49,
+        "label": "Tomatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Onions": {
+        "price": 3.49,
+        "label": "Onions",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Garlic": {
+        "price": 1.49,
+        "label": "Garlic",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bell Peppers": {
+        "price": 4.49,
+        "label": "Bell Peppers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Potatoes": {
+        "price": 5.49,
+        "label": "Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sweet Potatoes": {
+        "price": 4.49,
+        "label": "Sweet Potatoes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Carrots": {
+        "price": 3.49,
+        "label": "Carrots",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Broccoli": {
+        "price": 3.49,
+        "label": "Broccoli",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cauliflower": {
+        "price": 4.49,
+        "label": "Cauliflower",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Zucchini": {
+        "price": 3.49,
+        "label": "Zucchini",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cucumbers": {
+        "price": 2.49,
+        "label": "Cucumbers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Celery": {
+        "price": 3.49,
+        "label": "Celery",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mushrooms": {
+        "price": 3.49,
+        "label": "Mushrooms",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemons": {
+        "price": 3.49,
+        "label": "Lemons",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Limes": {
+        "price": 2.49,
+        "label": "Limes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pineapple": {
+        "price": 4.49,
+        "label": "Pineapple",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Watermelon": {
+        "price": 7.49,
+        "label": "Watermelon",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mango": {
+        "price": 2.49,
+        "label": "Mango",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peaches": {
+        "price": 5.49,
+        "label": "Peaches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bread": {
+        "price": 4.49,
+        "label": "Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Bagels": {
+        "price": 4.49,
+        "label": "Bagels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tortillas": {
+        "price": 3.49,
+        "label": "Tortillas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hamburger Buns": {
+        "price": 4.49,
+        "label": "Hamburger Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Dog Buns": {
+        "price": 3.49,
+        "label": "Hot Dog Buns",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Croissants": {
+        "price": 6.49,
+        "label": "Croissants",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Muffins": {
+        "price": 5.49,
+        "label": "Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "English Muffins": {
+        "price": 4.49,
+        "label": "English Muffins",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Dinner Rolls": {
+        "price": 4.49,
+        "label": "Dinner Rolls",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pita Bread": {
+        "price": 4.49,
+        "label": "Pita Bread",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Donuts": {
+        "price": 6.49,
+        "label": "Donuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cake": {
+        "price": 13.49,
+        "label": "Cake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cookies": {
+        "price": 5.49,
+        "label": "Cookies",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice": {
+        "price": 6.49,
+        "label": "Rice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pasta": {
+        "price": 2.49,
+        "label": "Pasta",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mac and Cheese": {
+        "price": 2.49,
+        "label": "Mac and Cheese",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Flour": {
+        "price": 5.49,
+        "label": "Flour",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sugar": {
+        "price": 4.49,
+        "label": "Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Brown Sugar": {
+        "price": 3.49,
+        "label": "Brown Sugar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Salt": {
+        "price": 2.49,
+        "label": "Salt",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pepper": {
+        "price": 4.49,
+        "label": "Pepper",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Olive Oil": {
+        "price": 10.49,
+        "label": "Olive Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vegetable Oil": {
+        "price": 6.49,
+        "label": "Vegetable Oil",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Vinegar": {
+        "price": 3.49,
+        "label": "Vinegar",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ketchup": {
+        "price": 4.49,
+        "label": "Ketchup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mustard": {
+        "price": 2.49,
+        "label": "Mustard",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Mayonnaise": {
+        "price": 5.49,
+        "label": "Mayonnaise",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soy Sauce": {
+        "price": 4.49,
+        "label": "Soy Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Hot Sauce": {
+        "price": 3.49,
+        "label": "Hot Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "BBQ Sauce": {
+        "price": 4.49,
+        "label": "BBQ Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Peanut Butter": {
+        "price": 5.49,
+        "label": "Peanut Butter",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jelly": {
+        "price": 4.49,
+        "label": "Jelly",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Honey": {
+        "price": 8.49,
+        "label": "Honey",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Maple Syrup": {
+        "price": 9.49,
+        "label": "Maple Syrup",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Beans": {
+        "price": 1.99,
+        "label": "Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Black Beans": {
+        "price": 1.99,
+        "label": "Black Beans",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chickpeas": {
+        "price": 1.99,
+        "label": "Chickpeas",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lentils": {
+        "price": 2.49,
+        "label": "Lentils",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Oatmeal": {
+        "price": 5.49,
+        "label": "Oatmeal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cereal": {
+        "price": 5.49,
+        "label": "Cereal",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pancake Mix": {
+        "price": 4.49,
+        "label": "Pancake Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Broth": {
+        "price": 3.49,
+        "label": "Chicken Broth",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tomato Sauce": {
+        "price": 1.99,
+        "label": "Tomato Sauce",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Corn": {
+        "price": 1.49,
+        "label": "Canned Corn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Canned Tuna": {
+        "price": 2.49,
+        "label": "Canned Tuna",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Pizza": {
+        "price": 7.49,
+        "label": "Frozen Pizza",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice Cream": {
+        "price": 5.49,
+        "label": "Ice Cream",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Vegetables": {
+        "price": 3.49,
+        "label": "Frozen Vegetables",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Fruit": {
+        "price": 5.49,
+        "label": "Frozen Fruit",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chicken Nuggets": {
+        "price": 8.49,
+        "label": "Chicken Nuggets",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fries": {
+        "price": 4.49,
+        "label": "Fries",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Waffles": {
+        "price": 4.49,
+        "label": "Waffles",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Breakfast Sandwiches": {
+        "price": 7.49,
+        "label": "Breakfast Sandwiches",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Burritos": {
+        "price": 5.49,
+        "label": "Frozen Burritos",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Meals": {
+        "price": 5.49,
+        "label": "Frozen Meals",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Ice": {
+        "price": 3.49,
+        "label": "Ice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Frozen Shrimp": {
+        "price": 10.49,
+        "label": "Frozen Shrimp",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chips": {
+        "price": 5.49,
+        "label": "Chips",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Popcorn": {
+        "price": 4.49,
+        "label": "Popcorn",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Crackers": {
+        "price": 4.49,
+        "label": "Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Granola Bars": {
+        "price": 5.49,
+        "label": "Granola Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Pretzels": {
+        "price": 3.49,
+        "label": "Pretzels",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Trail Mix": {
+        "price": 7.49,
+        "label": "Trail Mix",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Nuts": {
+        "price": 8.49,
+        "label": "Nuts",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Bars": {
+        "price": 9.49,
+        "label": "Protein Bars",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Chocolate": {
+        "price": 3.49,
+        "label": "Chocolate",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Candy": {
+        "price": 4.49,
+        "label": "Candy",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Fruit Snacks": {
+        "price": 4.49,
+        "label": "Fruit Snacks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Rice Cakes": {
+        "price": 3.49,
+        "label": "Rice Cakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Jerky": {
+        "price": 8.49,
+        "label": "Jerky",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cheese Crackers": {
+        "price": 4.49,
+        "label": "Cheese Crackers",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Gum": {
+        "price": 2.49,
+        "label": "Gum",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Cupcakes": {
+        "price": 6.49,
+        "label": "Cupcakes",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Water": {
+        "price": 5.49,
+        "label": "Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sparkling Water": {
+        "price": 6.49,
+        "label": "Sparkling Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Orange Juice": {
+        "price": 5.49,
+        "label": "Orange Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Apple Juice": {
+        "price": 4.49,
+        "label": "Apple Juice",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Soda": {
+        "price": 8.49,
+        "label": "Soda",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coffee": {
+        "price": 10.49,
+        "label": "Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Creamer": {
+        "price": 4.49,
+        "label": "Creamer",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Tea": {
+        "price": 5.49,
+        "label": "Tea",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Energy Drinks": {
+        "price": 9.49,
+        "label": "Energy Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Sports Drinks": {
+        "price": 7.49,
+        "label": "Sports Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Lemonade": {
+        "price": 3.49,
+        "label": "Lemonade",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Iced Coffee": {
+        "price": 5.49,
+        "label": "Iced Coffee",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Coconut Water": {
+        "price": 5.49,
+        "label": "Coconut Water",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Electrolyte Drinks": {
+        "price": 7.49,
+        "label": "Electrolyte Drinks",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      },
+      "Protein Shake": {
+        "price": 9.49,
+        "label": "Protein Shake",
+        "updatedAt": "2026-05-03",
+        "source": "starter-estimate"
+      }
+    }
+  }
+}
